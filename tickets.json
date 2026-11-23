@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dfdcc9df-13cb-4713-88ad-eee23ee52b90",
+    "userId": "249d57ba-6c55-400e-a2ac-3e9f85eac7da",
+    "name": "code.dev",
+    "email": "devcfx5m@gmail.com",
+    "subject": "help my pussy hurt",
+    "status": "open",
+    "createdAt": "2026-11-22T20:35:46.618Z",
+    "updatedAt": "2026-11-22T20:35:46.618Z",
+    "messages": [
+      {
+        "id": "81260755-f69d-4306-bdaa-343300890bcf",
+        "userId": "249d57ba-6c55-400e-a2ac-3e9f85eac7da",
+        "name": "code.dev",
+        "role": "member",
+        "body": "niggacddggdgg",
+        "createdAt": "2026-11-22T20:35:46.618Z"
+      }
+    ]
+  },
+  {
+    "id": "5ed1dd2e-1bc1-4aa3-94ba-9983b8fde9f0",
+    "userId": "e31eb6f8-b123-43fe-8ede-314ea92a6f34",
+    "name": "CRYPTICLEAKS",
+    "email": "rico.cfxfivem@gmail.com",
+    "subject": "fuck niggas",
+    "status": "open",
+    "createdAt": "2026-11-23T04:03:19.039Z",
+    "updatedAt": "2026-11-23T04:03:24.142Z",
+    "messages": [
+      {
+        "id": "33e9b397-1905-4a77-a181-da664095cd4b",
+        "userId": "e31eb6f8-b123-43fe-8ede-314ea92a6f34",
+        "name": "CRYPTICLEAKS",
+        "role": "member",
+        "body": "playin sick of it",
+        "createdAt": "2026-11-23T04:03:19.039Z"
+      },
+      {
+        "id": "46077e63-8d60-4549-ae2e-6fd0f00c6928",
+        "userId": "e31eb6f8-b123-43fe-8ede-314ea92a6f34",
+        "name": "CRYPTICLEAKS",
+        "role": "member",
+        "body": "nigga",
+        "createdAt": "2026-11-23T04:03:24.142Z"
+      }
+    ]
+  }
+]

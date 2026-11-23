@@ -1,0 +1,14 @@
+{
+  "name": "5m-resources",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A catalog of open-source and creator-authorized FiveM resources",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}

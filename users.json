@@ -1,0 +1,26 @@
+[
+  {
+    "id": "249d57ba-6c55-400e-a2ac-3e9f85eac7da",
+    "name": "code.dev",
+    "email": "devcfx5m@gmail.com",
+    "passwordHash": "b342e7da8e446734af7f599766fa6f8c:ca504a30cdad811c17b0c5ed05ab1075162eaa3dea1083551f7ecea2de07f79c946f0d49eae0dc562896a54cce46edbb59a0dee41d7b09b6c663dba703473064",
+    "role": "member",
+    "createdAt": "2026-11-22T20:35:26.411Z"
+  },
+  {
+    "id": "e31eb6f8-b123-43fe-8ede-314ea92a6f34",
+    "name": "CRYPTICLEAKS",
+    "email": "rico.cfxfivem@gmail.com",
+    "passwordHash": "cd1cdbe46dc5ed9ed08fa1a3428a6898:91da6b5793ce72f056c4475714b34f6ba2a752f6e5f43f54fc5cdf275f644e9ee7bdabe4986b2d32f1395e630c12ffdec15b0a95ccb86da4fb93a82d3304b3e8",
+    "role": "member",
+    "createdAt": "2026-11-23T04:02:49.336Z"
+  },
+  {
+    "id": "a8ef0668-453d-4060-b4b1-0c926479527a",
+    "name": "CRYPTICLEAKS",
+    "email": "zred7230@gmail.com",
+    "passwordHash": "24c3e13ec63693bdf2b1085d88a02bb5:78fa8e05ce152c362b062f21afaa1cb85efef4e76953918ff9e66a64d76bab785bb011dd77b2e8a1940196ffcf5438653b463379c75d313ae2c43a87e55265e3",
+    "role": "member",
+    "createdAt": "2026-11-23T04:04:42.605Z"
+  }
+]
